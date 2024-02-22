@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Luke Doughty
-- 👀 I’m interested in machine learning and making games in vr using more natural forms of locomotion
-- 🌱 I’m currently learning unity game development, c#, java, python, and machine learning.
-- 📫 How to reach me -> LinkedIn: https://www.linkedin.com/in/luke-doughty-a641ab239/         Discord: LionBub#3928
+Hi, I'm Luke Doughty.  
+Software Engineering major interested in machine learning, full stack programming, networking, and cybersecurity. 
+Feel free to reach out with questions or if you want to collaborate!
+You can reach me at luke.doughty@me.com
 
-<!---
-LionBub/LionBub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
